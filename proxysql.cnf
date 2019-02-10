@@ -27,7 +27,7 @@ mysql_variables=
         ping_timeout_server=200
         commands_stats=true
         sessions_sort=true
-        monitor_username="review_suggestions"
+        monitor_username="root"
         monitor_password="reviewPassword"
 }
 
