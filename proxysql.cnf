@@ -44,7 +44,7 @@ mysql_servers =
 
 mysql_users =
 (
-        { username = "review_suggestions" , password = "reviewPassword" , default_hostgroup = 10 , active = 1 }
+        { username = "root" , password = "reviewPassword" , default_hostgroup = 10 , active = 1 }
 )
 
 mysql_query_rules =
