@@ -38,8 +38,8 @@ mysql_replication_hostgroups =
 
 mysql_servers =
 (
-        { address="10.42.33.254" , port=3306 , hostgroup=10, max_connections=100 , max_replication_lag = 5 },
-        { address="10.42.95.182" , port=3306 , hostgroup=20, max_connections=100 , max_replication_lag = 5 }
+        { address="10.42.23.212" , port=3306 , hostgroup=10, max_connections=100 , max_replication_lag = 5 },
+        { address="10.42.123.122" , port=3306 , hostgroup=20, max_connections=100 , max_replication_lag = 5 }
 )
 
 mysql_users =
