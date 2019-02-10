@@ -27,8 +27,8 @@ mysql_variables=
         ping_timeout_server=200
         commands_stats=true
         sessions_sort=true
-        monitor_username="proxysql"
-        monitor_password="proxysqlpassword"
+        monitor_username="review_suggestions"
+        monitor_password="reviewPassword"
 }
 
 mysql_replication_hostgroups =
